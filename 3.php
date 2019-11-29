@@ -31,11 +31,6 @@ p {
          <img  src="images/456.png" style="width:500px; margin:0px 10px 0px 12px">
     </div>
     </div>
-    <div data-role="collapsible">
-        <h4><?php echo $row['loc_title']; ?></h4>
-        <p><?php echo $row['loc_place']; ?></p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.168138160603!2d120.42744541488116!3d23.705688996400035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346eba0f958ef16b%3A0x47e51c12ac825a52!2z6JmO5bC-6Imy6byO54eS6IKJ6JmO5bC-5bqX!5e0!3m2!1szh-TW!2stw!4v1574056425234!5m2!1szh-TW!2stw" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-    </div>
 </div>
 </div>    
 </body>
