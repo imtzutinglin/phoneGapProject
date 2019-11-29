@@ -29,7 +29,8 @@ p {
         <p>飲食禁忌:</p>
         <p>1、油炸食品以及人造脂肪、人造黃油、動物脂肪（因為這些食物會加速氧化反應）。</p>
          <p>2、全脂奶粉、牛奶、奶油、奶酪、冰淇淋等含乳糖豐富的乳製品。</p>
-        <iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9WR0e4UzO4S9SlmM9GwPAT4fNSwqHuXDeajg2e5zV7DOV17SB" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        <img src="images/whiteeye.jpg" height="400" frameborder="0" style="border:0;" allowfullscreen=""></img>
+        <!--<img src="images/healthtrack.png" style="width:60px; margin:5px 15px 5px 18px">-->
     </div>
     <div data-role="collapsible">
         <h4>關節退化</h4>
